@@ -1,1 +1,1 @@
-# doc-similarity-checker
+# Project Documentation
